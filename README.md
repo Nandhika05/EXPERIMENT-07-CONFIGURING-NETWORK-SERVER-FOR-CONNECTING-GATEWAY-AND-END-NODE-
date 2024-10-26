@@ -1,4 +1,8 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+
+ NAME : Nandhika P
+ 
+ Reg no : 212223040125
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
@@ -47,9 +51,8 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
 
-
+![Screenshot 2024-10-26 112537](https://github.com/user-attachments/assets/776aee8b-864a-4aee-ae62-3dac86e18b97)
 
 
 ## Results: 
